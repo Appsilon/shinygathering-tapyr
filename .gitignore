@@ -1,0 +1,15 @@
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+
+# Code coverage
+lcov.info
+.coverage
+
+# Results of playwright tests with tracing
+test-results/
+
+# Files from playwright installed with npm
+node_modules
+package-lock.json
+package.json
